@@ -149,6 +149,7 @@ REPLACE="
 /vendor/data/app/Videos
 /vendor/data/app/wps_lite
 /vendor/data/app/XMRemoteController
+/system/priv-app/PersonalAssistant
 
 "
 
