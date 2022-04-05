@@ -10,8 +10,6 @@ print_modname() {
 }
 
 REPLACE="
-/data/app/android.autoinstalls.config.Xiaomi.begonia-qReVd01fGz2adoFNLXNDew==
-/data/app/com.miui.analytics-JEa_Zu6x4mDKRv-IsGDPAA==
 /system/app/AiAsstVision
 /system/app/AnalyticsCore
 /system/app/BookmarkProvider
@@ -31,7 +29,6 @@ REPLACE="
 /system/app/GooglePrintRecommendationService
 /system/app/greenguard
 /system/app/Health
-/system/app/HTMLViewer
 /system/app/HybridAccessory
 /system/app/HybridPlatform
 /system/app/IdMipay
@@ -79,8 +76,6 @@ REPLACE="
 /system/app/XMCloudEngine
 /system/app/XMSFKeeper
 /system/app/YouDaoEngine
-/system/data/app/android.autoinstalls.config.Xiaomi.qssi-5NKLAXthPp3xU6ucgGl2Ag==
-/system/data/app/com.google.android.ims-zFXerSRh5hdqjerjDEJGyQ==
 /system/priv-app/Browser
 /system/priv-app/Calendar
 /system/priv-app/CellBroadcastServiceModulePlatform
@@ -150,6 +145,19 @@ REPLACE="
 /vendor/data/app/wps_lite
 /vendor/data/app/XMRemoteController
 /system/priv-app/PersonalAssistant
+/system/app/WeatherGlobalStub
+/system/app/NotesGlobalStub
+/system/app/CalculatorGlobalStub
+/system/app/ScreenRecorderGlobalStub
+/system/app/MiDropStub
+/system/app/CompassGlobalStub
+/system/priv-app/ScannerGlobalStub
+/system/priv-app/SoundRecorderStub
+/system/system_ext/priv-app/SetupWizard
+/system/product/priv-app/GoogleRestore
+/data/app/GlobalFashiongallery
+/system/system_ext/priv-app/GoogleFeedback
+/system/app/MiuiAudioMonitor
 
 "
 
